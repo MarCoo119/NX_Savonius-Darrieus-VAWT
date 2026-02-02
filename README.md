@@ -1,43 +1,62 @@
 # NX_Savonius-Darrieus-VAWT
 Designed and optimised a Savonius–Darrieus hybrid wind turbine CAD model based on published research papers. Developed parametric components in Siemens NX, focusing on blade geometry, assembly accuracy, and manufacturability.
 
-# 📌 Overview
+# Savonius–Darrieus Hybrid Wind Turbine  
+### CAD Research Project
 
-This repository contains a parametric 3D CAD model of a Savonius–Darrieus hybrid wind turbine developed in Siemens NX. The design is inspired by aerodynamic research and focuses on hybrid rotor efficiency, blade interaction, and manufacturable engineering structure.
+📌 **Project Overview**
 
-The project combines drag-based Savonius blades and lift-based Darrieus blades into a unified rotor assembly suitable for engineering analysis and future simulation work.
+This repository contains a parametric 3D CAD model of a Savonius–Darrieus hybrid wind turbine designed using Siemens NX. The project is based on aerodynamic research and focuses on improving blade interaction, rotor efficiency, and manufacturable hybrid turbine design.
 
-# 🛠 Tools Used
+The assembly integrates drag-based (Savonius) and lift-based (Darrieus) rotor principles into a unified structure suitable for engineering study and future simulation work.
 
-Siemens NX (CAD & Assembly)
+---
 
-Parametric 3D Modeling
+🛠️ **Tools & Software Used**
 
-Research-based design workflow
+- CAD Software: Siemens NX  
+- Modeling Approach: Parametric 3D solid modeling  
+- Assembly Type: Multi-component hybrid rotor assembly  
+- Reference Base: Research journal studies  
+- File Format: `.prt` (Siemens NX part files)
 
-# ⚙️ Key Features
+---
 
-Hybrid turbine geometry based on research studies
+⚙️ **Key Features**
 
-Parametric blade modeling for flexible design changes
+- Research-driven hybrid turbine geometry  
+- Parametric blade modeling for flexible design changes  
+- Fully constrained and aligned assembly  
+- Manufacturing-oriented structural layout  
+- Modular design for simulation preparation  
+- Clean engineering hierarchy for optimization
 
-Fully aligned multi-component assembly
+---
 
-Manufacturing-oriented structure
+🎯 **Applications**
 
-Simulation-ready CAD preparation
+- Wind energy system research  
+- Aerodynamic simulation preparation  
+- Renewable energy design studies  
+- CAD portfolio and academic projects  
+- Mechanical engineering learning reference
 
-# 🚀 Status
+---
 
-Work in progress — airflow simulation preparation and performance validation planned.
+🚀 **Project Status**
 
-# 📚 Learning Focus
+Work in progress — simulation preparation is ongoing to analyze airflow behavior and validate turbine performance.
 
-Hybrid wind turbine design principles
+---
 
-Advanced assembly structuring in Siemens NX
+📚 **Learning Outcomes**
 
-Parametric CAD workflow
+- Hybrid turbine design principles  
+- Research-based CAD workflow  
+- Advanced assembly structuring in Siemens NX  
+- Parametric engineering modeling  
+- Simulation-ready model preparation
 
-Research-driven engineering modeling
+---
 
+# Model Overview
