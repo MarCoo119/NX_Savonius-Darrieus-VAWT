@@ -1,76 +1,43 @@
 # NX_Savonius-Darrieus-VAWT
 Designed and optimised a Savonius–Darrieus hybrid wind turbine CAD model based on published research papers. Developed parametric components in Siemens NX, focusing on blade geometry, assembly accuracy, and manufacturability.
 
-📌 Project Overview
+📌 Overview
 
-This repository contains a parametric 3D CAD model of a Savonius–Darrieus hybrid wind turbine designed using Siemens NX. The project is based on published aerodynamic research and focuses on improving blade interaction, rotor efficiency, and manufacturable hybrid turbine design.
+This repository contains a parametric 3D CAD model of a Savonius–Darrieus hybrid wind turbine developed in Siemens NX. The design is inspired by aerodynamic research and focuses on hybrid rotor efficiency, blade interaction, and manufacturable engineering structure.
 
-The assembly demonstrates integration of drag-based (Savonius) and lift-based (Darrieus) rotor concepts into a unified hybrid structure suitable for simulation and engineering study.
+The project combines drag-based Savonius blades and lift-based Darrieus blades into a unified rotor assembly suitable for engineering analysis and future simulation work.
 
-🛠️ Tools & Software Used
+🛠 Tools Used
 
-CAD Software: Siemens NX
+Siemens NX (CAD & Assembly)
 
-Modeling Approach: Parametric 3D solid modeling
+Parametric 3D Modeling
 
-Assembly Type: Structured multi-component rotor assembly
-
-Reference Base: Research journal papers
-
-File Format: .prt (Siemens NX part files)
-
-🧩 File Description
-
-Main Assembly.prt
-Master hybrid rotor assembly integrating Savonius and Darrieus components.
-
-Savonius Rotor Components.prt
-Drag-based blade structure and support geometry.
-
-Darrieus Blade Assembly.prt
-Lift-based airfoil blades and mounting system.
-
-Support Structure.prt
-Shaft, hub, and alignment framework for structural stability.
+Research-based design workflow
 
 ⚙️ Key Features
 
-Research-driven hybrid turbine geometry
+Hybrid turbine geometry based on research studies
 
-Parametric blade modeling for design flexibility
+Parametric blade modeling for flexible design changes
 
-Accurate assembly constraints and alignment
+Fully aligned multi-component assembly
 
-Manufacturable structural layout
+Manufacturing-oriented structure
 
-Modular components for simulation preparation
+Simulation-ready CAD preparation
 
-Clean engineering hierarchy for future optimization
+🚀 Status
 
-🎯 Applications
+Work in progress — airflow simulation preparation and performance validation planned.
 
-Wind energy system research
+📚 Learning Focus
 
-Aerodynamic simulation preparation
-
-Renewable energy design studies
-
-CAD portfolio and academic engineering projects
-
-Mechanical design learning reference
-
-🚀 Current Status
-
-Work in progress — simulation preparation methods are being developed to analyze airflow behavior and validate aerodynamic performance.
-
-📚 Learning Outcomes
-
-Hybrid turbine design principles
-
-Research-based CAD modeling workflow
+Hybrid wind turbine design principles
 
 Advanced assembly structuring in Siemens NX
 
-Parametric engineering design techniques
+Parametric CAD workflow
 
+Research-driven engineering modeling
 Simulation-ready model preparation
