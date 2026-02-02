@@ -60,3 +60,6 @@ Work in progress — simulation preparation is ongoing to analyze airflow behavi
 ---
 
 # Model Overview
+
+<img width="1315" height="736" alt="Snapshot of the dashboard" src="https://github.com/MarCoo119/NX_Savonius-Darrieus-VAWT/blob/main/SD_Wind%20Turbine.png">
+
